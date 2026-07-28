@@ -1,5 +1,5 @@
 # NTI_Project
-[01:26, 28/07/2026] +20 12 03829208: 📊 Adult Income Classification – Machine Learning Project
+📊 Adult Income Classification – Machine Learning Project
 
 A machine learning project that predicts whether a person's income exceeds $50K/year based on demographic and employment data, using the Adult Income Dataset.
 
