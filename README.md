@@ -155,6 +155,6 @@ jupyter notebook NTI_Project.ipynb
 - **KNN** slightly edges out on raw accuracy but is more computationally expensive at inference time.
 - Feature scaling and outlier handling had a noticeable positive effect on distance-based models like KNN.
 
----
+--
 
 ⭐ If you found this project useful, consider giving it a star!
