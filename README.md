@@ -8,7 +8,7 @@
 
 A machine learning project that predicts whether a person's income exceeds **$50K/year** based on demographic and employment data, using the **Adult Census Income Dataset**.
 
----
+----------
 
 ## 📑 Table of Contents
 
